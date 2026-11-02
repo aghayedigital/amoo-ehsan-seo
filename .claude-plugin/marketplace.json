@@ -1,0 +1,14 @@
+{
+  "name": "aghayedigital-seo",
+  "owner": {
+    "name": "Aghaye Digital",
+    "url": "https://www.aghayedigital.com/"
+  },
+  "plugins": [
+    {
+      "name": "amoo-ehsan-seo",
+      "source": "./",
+      "description": "اسکیل سئوی عمو احسان؛ سئوی فروشگاهی و دسته‌بندی محصولات به فارسی"
+    }
+  ]
+}
